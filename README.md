@@ -16,4 +16,5 @@
 
 ### git branch 설정 참고자료
 - https://velog.io/@wonizizi99/Git-Git-%ED%98%91%EC%97%85-%ED%95%A0-%EB%95%8C-Clonebranch-%EC%83%9D%EC%84%B1-%ED%9B%84-pull-request-%EA%B3%BC%EC%A0%95
+- https://gmlwjd9405.github.io/2018/05/11/types-of-git-branch.html
 
