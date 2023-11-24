@@ -1,6 +1,9 @@
 # Computer_game_design_17
 컴겜설 17조 과제 (defense 게임 개발)
 
+### 게임 개발 참조 유튜브 링크
+https://youtube.com/playlist?list=PLO-mt5Iu5TebYBC5jE3u5LyP2D7np0jJf&si=GTsNh8BBxU2D2rhL
+
 ### Unity 환경설정 방법
 1. 원하는 위치에 git clone  
 2. Unity hub 설치
